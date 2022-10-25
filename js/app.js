@@ -86,4 +86,4 @@ function getColorsFromHash() {
     }
 }
 
-setRandomColors(true)
+setRandomColors()
